@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:4facfe,100:00f2fe&height=250&section=header&text=🏦Bank%20,%20ManagementSystem&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:4facfe,100:00f2fe&height=250&section=header&text=🏦Bank%20%20ManagementSystem&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
 
 A **Spring Boot** based backend application that performs **CRUD (Create, Read, Update, Delete)** operations for managing bank accounts and customer records, using a simple **DAO/Repository-based architecture**.
 
