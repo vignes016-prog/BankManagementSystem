@@ -35,7 +35,7 @@ Bank Management System is a backend project that simulates core banking operatio
 
 ```properties
 spring.datasource.url=jdbc:postgresql://localhost:5432/BankManagementSystem
-spring.datasource.username=vignes016-prog
+spring.datasource.username=postgres
 spring.datasource.password=vignesh
 spring.jpa.hibernate.ddl-auto=update
 spring.jpa.show-sql=true
